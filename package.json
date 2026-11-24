@@ -1,0 +1,24 @@
+{
+  "name": "beginner-html-site-styled",
+  "version": "1.0.0",
+  "description": "A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:html": "htmlhint index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimalgupta06/beginner-html-site-styled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimalgupta06/beginner-html-site-styled/issues"
+  },
+  "homepage": "https://github.com/vimalgupta06/beginner-html-site-styled#readme",
+  "devDependencies": {
+    "htmlhint": "^1.9.2"
+  }
+}
